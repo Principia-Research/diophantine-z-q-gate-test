@@ -82,3 +82,5 @@ import ZInQKernel.Hypotheses.TYZInputs
 import ZInQKernel.RouteK.PropN
 import ZInQKernel.MainLiterature
 import ZInQKernel.HDecomp
+
+-- Protocol B controlled fork-dispatch fixture; no declaration change.
